@@ -421,6 +421,9 @@ a:hover
 {
     grid-area: widgets;
     display: grid;
+    margin: 0 auto;
+    row-gap: 20px;
+    column-gap: 20px;
     justify-items: center;
     grid-template-columns: 1fr 1fr 1fr;
 }
